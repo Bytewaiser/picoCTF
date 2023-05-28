@@ -1,0 +1,3 @@
+chmod +x warm
+
+./warm -h | grep -Eo "pico.*" > flag
